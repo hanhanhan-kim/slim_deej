@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "SF_Boards")(type "KiCad")(uri "/home/sqhank/Dropbox/_hobbies/maker_projs/kicad/libraries/SparkFun-KiCad-Libraries/Footprints/Boards.pretty")(options "")(descr ""))
+  (lib (name "rotary_pot_R0904N")(type "KiCad")(uri "/home/sqhank/Dropbox/_hobbies/maker_projs/kicad/libraries/other-libraries/rotary_pot_R0904N")(options "")(descr ""))
+)
