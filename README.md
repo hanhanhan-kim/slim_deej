@@ -13,7 +13,7 @@ In addition to standard electronics equipment and access to a 3D-printer:
 | Item                          | Price (USD) | Quantity | Source                                                       |
 | ----------------------------- | ----------- | -------- | ------------------------------------------------------------ |
 | Arduino Pro Micro*            | 27.99 / 3   | 1        | Amazon<br />[ASIN B01MTU9GOB](https://www.amazon.com/HiLetgo-Atmega32U4-Bootloadered-Development-Microcontroller/dp/B01MTU9GOB/ref=sr_1_1_sspa?dchild=1&keywords=arduino+pro+micro&qid=1614562625&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyV1BVTFBUNEY2NjhHJmVuY3J5cHRlZElkPUEwMTk3NDQwM1RON1BNTkJSNjBGSyZlbmNyeXB0ZWRBZElkPUEwMzI5Nzg0MlpFV1c0TUtIVElGWSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=) |
-| PCB                           | 5.40 / 3    | 1        | [JLCPCB](https://jlcpcb.com/)                                |
+| PCB                           | 5.40 / 5    | 1        | [JLCPCB](https://jlcpcb.com/)                                |
 | Rotary potentiometer (10 kΩ ) | 2.23        | 5        | [Digikey 987-1666-ND](https://www.digikey.com/en/products/detail/tt-electronics-bi/P0915N-EC15BR10K/4780755?s=N4IgTCBcDaIJwA4DsBaAjANiygdgExAF0BfIA) |
 | *Optional*: Knobs             | 0 - lots    | 5        | Can be printed (e.g. [here](https://www.thingiverse.com/thing:54024) or [here](https://www.thingiverse.com/thing:1072393)), or bought. Just make sure it's for 6 mm diameter shafts. Guitar knobs are often of the correct size. |
 
@@ -33,7 +33,7 @@ The KiCad source files are available [here](./kicad_slim_deej/).
 
 ## Installation
 
-Installation is fairly straightforward. Print the [panel case](./case_front.3mf), a render of which is shown: 
+Installation is fairly straightforward. Print the [panel case](./3d_files/case_front.3mf), a render of which is shown: 
 
 ![](./assets/render.png)
 

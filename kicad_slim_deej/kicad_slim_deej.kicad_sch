@@ -9,8 +9,8 @@
     (date "2022-06-22")
     (rev "v00")
     (company "personal")
-    (comment 1 "gnu.org/licenses/gpl-3.0.html")
-    (comment 2 "License GPL by 3.0")
+    (comment 1 "https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode")
+    (comment 2 "License CC (NC CA) 4.0")
     (comment 3 "By: Han Kim")
   )
 
