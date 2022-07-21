@@ -4,7 +4,7 @@
 
 ![](./assets/nice_photo.jpg)
 
-This project provides hardware for the awesome [Deej](https://github.com/omriharel/deej) volume mixer (Windows and Linux only). The Deej community has come up with many myriad designs, but I didn't find one that suited my needs. So I made one! This Deej design is fairly low profile, and can be mounted under one's desk or monitor, so it doesn't take up any valuable desk space. For this reason, I'm using rotary potentiometers, because sliding potentiometers take up a lot of real estate. I also designed a PCB, to ease the assembly process, and slim down the form factor. A slight upward angle on the front panel adds to the aesthetic.
+This project provides hardware for the awesome [Deej](https://github.com/omriharel/deej) volume mixer (Windows and Linux only). The Deej community has come up with many myriad designs, but I didn't find one that suited my needs. So I made one! This Deej design is fairly low profile, and can be mounted under one's desk or monitor, so it doesn't take up any valuable desk space. For this reason, I'm using rotary potentiometers, because sliding potentiometers take up a lot of real estate. I also designed a PCB, to ease the assembly process, and slim down the form factor. A slight upward angle on the front panel adds to the aesthetic. The original [`.f3d` ](./3d_files/case_front.f3d) file is parameterized, however, and so the angle can be easily adjusted. For example, a 90 degree version is available [here](). 
 
 ## BOM
 
